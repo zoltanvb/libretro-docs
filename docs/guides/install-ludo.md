@@ -82,9 +82,9 @@ We chose the best emulators for the job, configured with sane defaults guarantee
 Ludo also exists in the form of an Operating System called LudOS.
 It behaves and looks exactly the same and can be installed directly on a TV Box to recreate a game console experience.
 
-- [PC 64bit](https://github.com/libretro/LudOS/releases/download/v1.0-alpha30/LudOS-Generic.x86_64-1.0-alpha30.img.gz)
-- [Raspberry Pi 2/3](https://github.com/libretro/LudOS/releases/download/v1.0-alpha30/LudOS-RPi2.arm-1.0-alpha30.img.gz)
-- [Raspberry Pi 4](https://github.com/libretro/LudOS/releases/download/v1.0-alpha30/LudOS-RPi4.arm-1.0-alpha30.img.gz)
+- [PC 64bit](https://github.com/libretro/LudOS/releases/download/v1.0-beta6/LudOS-Generic.x86_64-1.0-beta6.img.gz)
+- [Raspberry Pi 2/3](https://github.com/libretro/LudOS/releases/download/v1.0-beta6/LudOS-RPi2.arm-1.0-beta6.img.gz)
+- [Raspberry Pi 4](https://github.com/libretro/LudOS/releases/download/v1.0-beta6/LudOS-RPi4.arm-1.0-beta6.img.gz)
 
 The OS version of Ludo, LudOS, adds these OS centric functionalities:
 
